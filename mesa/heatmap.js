@@ -42,7 +42,7 @@ function initialize(){
 
     //  build map
     // ---------------------------------
-    var myLatlng = new google.maps.LatLng(41.886903, -87.722740);
+    var myLatlng = new google.maps.LatLng(33.4, 111.8);
     var myOptions = {
       zoom: 12,
       center: myLatlng,
